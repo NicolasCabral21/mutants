@@ -19,6 +19,9 @@ https://mutant-heroku.herokuapp.com/mutant
 URL que trae las estadisticas:
 https://mutant-heroku.herokuapp.com/stats
 
+URL que trae todos los humanos (con el flag mutant):
+https://mutant-heroku.herokuapp.com/humans
+
 Configuracion de la base de datos en el archivo application.properties:
 
 spring.datasource.url= u373207304_mutan
